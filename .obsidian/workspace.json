@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "7ee8007ba9225206",
+    "type": "split",
+    "children": [
+      {
+        "id": "f04a614873a0fb48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de0bdefe4e7579c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【读书笔记】你的生存本能正在杀死你.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0497177a26179139",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4eb29a1393f24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199844b467a3eb79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "779848cb6623795f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4d36d66fe72132b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eddae003705ce5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff638b8909e9964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb984f35d54cc108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "【读书笔记】你的生存本能正在杀死你.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80bd46277a0594f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "【读书笔记】你的生存本能正在杀死你.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37872b12b8920e7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a621f2497e16574a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "【读书笔记】你的生存本能正在杀死你.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3de0bdefe4e7579c",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
